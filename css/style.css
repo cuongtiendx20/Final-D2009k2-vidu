@@ -1,0 +1,33 @@
+/* CSS Document */
+*{
+	margin: 0;
+	padding: 0;
+}
+.container{
+	width: 100%;
+/*	background: rgba(2	10,173,173,1.00);*/
+	background: url("../img/543667 (1).jpg");
+	background-size: cover;
+	padding: 120px 0;
+	box-sizing: border-box;
+}
+h1{
+	color: white;
+	text-align: center;
+}
+table{
+	margin: 24px auto;
+	color: white;
+	width: 600px;
+	text-align: center;
+}
+table, td, th{
+	border-collapse: collapse;
+	border-color: white;
+}
+td,th{
+	padding: 10px 0;
+}
+thead{
+	background: rgba(0,99,191,1.00)
+}
